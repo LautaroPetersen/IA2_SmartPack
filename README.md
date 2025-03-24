@@ -34,6 +34,7 @@ Este proceso puede ser tedioso, manual y propenso a errores.
    - Un archivo **Word** con todas las etiquetas
 
 ---
+👉 Probalo con los archivos ejemplo_packing.xlsx y ejemplo_pedidos.xlsx incluidos en este repositorio.
 
 ## 🧱 Estructura del programa
 
