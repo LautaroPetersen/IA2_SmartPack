@@ -48,7 +48,7 @@ Este proceso puede ser tedioso, manual y propenso a errores.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/redistribucion-ia.git
+git clone https://github.com/LautaroPetersen/IA2_SmartPack.git
 cd redistribucion-ia
 ```
 
