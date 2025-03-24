@@ -9,8 +9,8 @@ import google.generativeai as genai
 
 # -------------------- CONFIGURACIÓN --------------------
 
-secrets = toml.load("secrets.toml")
-api_key = secrets["gemini"]["api_key"]
+# Cargar API key desde los secrets de Streamlit Cloud
+api_key = st.secrets["gemini"]["api_key"]
 genai.configure(api_key=api_key)
 
 # -------------------- FUNCIÓN IA --------------------
